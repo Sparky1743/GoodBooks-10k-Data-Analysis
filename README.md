@@ -1,7 +1,7 @@
 # GoodBooks-10k-Data-Analysis
 
 This repository features a comprehensive Data Narrative developed for a course project, centred around the exploration of the goodbooks-10k dataset. Leveraging Python, the project seamlessly integrates datasets, employing advanced techniques in data analysis, visualization, and statistics. The primary objective is to utilize the dataset to build a personalized book recommendation system. Demonstrating proficiency in both technical and domain-specific skills, the project showcases adept use of the pandas and matplotlib libraries.
-
+[Link to goodbooks-10k dataset](https://github.com/zygmuntz/goodbooks-10k) 
 ## Project Highlights
 
 ### Data Analysis Process
