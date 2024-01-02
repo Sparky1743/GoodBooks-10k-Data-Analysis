@@ -13,3 +13,7 @@ This repository features a comprehensive Data Narrative developed for a course p
 
 ### Course Context
 This Data Narrative was completed as part of the ES-114: Probability, Statistics, and Data Visualization course offered to first-year B.Tech students in February '23 at the Indian Institute of Technology, Gandhinagar.
+
+Links to two more data narratives under the same course:
+- [Economic-Analysis-of-1995-US-Higher-Education](https://github.com/Sparky1743/Economic-Analysis-of-1995-US-Higher-Education).
+- [Investigating-Tennis-Performance-of-Grand-Slam-Players-in-2013](https://github.com/Sparky1743/Investigating-Tennis-Performance-of-Grand-Slam-Players-in-2013).
