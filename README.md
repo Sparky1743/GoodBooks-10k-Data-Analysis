@@ -6,7 +6,7 @@ This repository features a comprehensive Data Narrative developed for a course p
 ## Project Highlights
 
 ### Data Analysis Process
-- Thorough exploration of the goodbooks-10k dataset in a detailed Data Narrative.
+- Thorough exploration of the goodbooks-10k dataset using Python.
 - Proficient use of advanced techniques for handling complex data structures and extracting meaningful insights.
 - Solid application of statistical methods for deriving meaningful conclusions from the dataset.
 - Skillful use of matplotlib and seaborn libraries for compelling data visualizations to communicate findings and patterns.
