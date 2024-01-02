@@ -12,7 +12,7 @@ This repository features a comprehensive Data Narrative developed for a course p
 - Skillful use of matplotlib and seaborn libraries for compelling data visualizations to communicate findings and patterns.
 
 ### Course Context
-This Data Narrative was completed as part of the ES-114: Probability, Statistics, and Data Visualization course offered to first-year B.Tech students in February '23 at the Indian Institute of Technology, Gandhinagar.
+This Data Narrative was completed as part of the ES-114: Probability, Statistics, and Data Visualization course offered to first-year B.Tech students in April '23 at the Indian Institute of Technology, Gandhinagar.
 
 Links to two more data narratives under the same course:
 - [Economic-Analysis-of-1995-US-Higher-Education](https://github.com/Sparky1743/Economic-Analysis-of-1995-US-Higher-Education).
